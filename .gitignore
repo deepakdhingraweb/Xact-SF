@@ -21,3 +21,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+force-app/main/default/aura/.eslintrc.json
+force-app/main/default/lwc/.eslintrc.json
+scripts/apex/hello.apex
+scripts/soql/account.soql
